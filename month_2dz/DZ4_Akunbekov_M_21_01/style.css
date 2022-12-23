@@ -1,0 +1,66 @@
+
+.svetofor{
+    height: 320px;
+    width: 179px;
+    background: aquamarine;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.red{
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: black;
+}
+.yellow{
+    height: 100px;
+    width: 100px;
+    margin: 10px auto;
+    border-radius: 50%;
+    background: black;
+}
+.green{
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: black;
+}
+.buttons{
+    width: 500px;
+    margin: 20px auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.plus{
+    width: 150px;
+    height: 50px;
+    background-color: aqua;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+.minus{
+    width: 150px;
+    height: 50px;
+    background-color: purple;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+.coordinates{
+    width: 500px;
+    height: 500px;
+    background: aqua;
+    border-radius: 20px;
+    cursor: grab;
+}
+
+
+
+
+

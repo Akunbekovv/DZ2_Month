@@ -1,0 +1,15 @@
+.text{
+    width: 400px;
+    height: 30px;
+    border: darkblue solid 2px;
+    border-radius: 20px;
+}
+#buttons{
+    width: 70px;
+    height: 30px;
+    border: darkblue solid 2px;
+    border-radius: 20px;
+}
+.second{
+    font-family: Times New Roman;
+}
